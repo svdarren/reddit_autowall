@@ -7,7 +7,7 @@ import sys
 
 
 ############### Settings ################
-#Subreddit = "/user/CcntMnky/m/wallpapers"		### Replaced by argument
+#Subreddit = "/user//m/wallpapers"		### Replaced by argument
 #ImageDir = "/Users/darrenj/Pictures/reddit_autowall/"	### Replaced by argument
 EraseOldPics = True
 #########################################
